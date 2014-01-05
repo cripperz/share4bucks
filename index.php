@@ -114,22 +114,22 @@ function DM_admin_managewebsite()
 		<div style="position : absolute;top: 43px;left: 123px;">
 		<style type="text/css">.plugimgleft{float:left;width:50px;margin-right:10px;}</style>';
 		if(isset($_POST['link1active'])){ $link1active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure1}{$myuid}' /><img src='{$geturl}images/{$themeopt}/5.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure1}{$myuid}' ><img src='{$geturl}images/{$themeopt}/5.png' /></a></span>";
 		} else $link1active=0;
 		if(isset($_POST['link2active'])){ $link2active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure2}{$myuid}' /><img src='{$geturl}images/{$themeopt}/2.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure2}{$myuid}' ><img src='{$geturl}images/{$themeopt}/2.png' /></a></span>";
 		}else $link2active=0;
 		if(isset($_POST['link3active'])){ $link3active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure3}{$myuid}' /><img src='{$geturl}images/{$themeopt}/3.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure3}{$myuid}' ><img src='{$geturl}images/{$themeopt}/3.png' /></a></span>";
 		}else $link3active=0;
 		if(isset($_POST['link4active'])){ $link4active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure4}{$myuid}' /><img src='{$geturl}images/{$themeopt}/6.png' /></a></span>";	
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure4}{$myuid}' ><img src='{$geturl}images/{$themeopt}/6.png' /></a></span>";	
 		} else $link4active=0;
 		if(isset($_POST['link5active'])){ $link5active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure5}{$myuid}' /><img src='{$geturl}images/{$themeopt}/7.png' /></a></span>";	
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure5}{$myuid}' ><img src='{$geturl}images/{$themeopt}/7.png' /></a></span>";	
 		} else $link5active=0;
 		if(isset($_POST['link6active'])){ $link6active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure6}{$myuid}' /><img src='{$geturl}images/{$themeopt}/1.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure6}{$myuid}' ><img src='{$geturl}images/{$themeopt}/1.png' /></a></span>";
 		}else $link6active=0;
 		
 		$savedtext.='</div></div>';
@@ -241,17 +241,17 @@ function DM_defaultsettings()
 		<div style="position : absolute;top: 43px;left: 123px;">
 		<style type="text/css">.plugimgleft{float:left;width:50px;margin-right:10px;}</style>';
 		$link1active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure1}{$myuid}' /><img src='{$geturl}images/{$themeopt}/5.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure1}{$myuid}' ><img src='{$geturl}images/{$themeopt}/5.png' /></a></span>";
 		 $link2active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure2}{$myuid}' /><img src='{$geturl}images/{$themeopt}/2.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure2}{$myuid}' ><img src='{$geturl}images/{$themeopt}/2.png' /></a></span>";
 		$link3active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure3}{$myuid}' /><img src='{$geturl}images/{$themeopt}/3.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure3}{$myuid}' ><img src='{$geturl}images/{$themeopt}/3.png' /></a></span>";
 		$link4active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure4}{$myuid}' /><img src='{$geturl}images/{$themeopt}/6.png' /></a></span>";	
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure4}{$myuid}' ><img src='{$geturl}images/{$themeopt}/6.png' /></a></span>";	
 		$link5active=1;
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure5}{$myuid}' /><img src='{$geturl}images/{$themeopt}/7.png' /></a></span>";	
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure5}{$myuid}' ><img src='{$geturl}images/{$themeopt}/7.png' /></a></span>";	
 		$link6active=1; 
-			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure6}{$myuid}' /><img src='{$geturl}images/{$themeopt}/1.png' /></a></span>";
+			$savedtext.="<span class='plugimgleft'><a target='_blank' href='{$linkstructure6}{$myuid}' ><img src='{$geturl}images/{$themeopt}/1.png' /></a></span>";
 		
 		
 		$savedtext.='</div></div>';
