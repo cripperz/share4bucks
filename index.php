@@ -3,7 +3,7 @@
 Plugin Name: Share4bucks
 Plugin URI: http://www.Share4bucks.com
 Description: Share4bucks
-Version: 1.0.4
+Version: 1.0.7
 Author: Share4bucks
 Author URI: http://www.Share4bucks.com
 License: GPL License
