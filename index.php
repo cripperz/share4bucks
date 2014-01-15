@@ -3,7 +3,7 @@
 Plugin Name: Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.)
 Plugin URI: http://www.Share4bucks.com
 Description: Share4bucks
-Version: 1.0.8
+Version: 1.0.9
 Author: Share4bucks
 Author URI: http://www.Share4bucks.com
 License: GPL License

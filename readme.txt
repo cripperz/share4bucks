@@ -1,15 +1,15 @@
 === Plugin Name ===
-Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) 
+Share4bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) 
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: http://example.com/
-Tags: facebook, twitter, google+, google plus, tumblr, monetization, monetize, share, sharing, social sharing, facebook fun page, facebook page
+Tags: facebook, twitter, Google Plus, Linkedin, google plus, tumblr, monetization, monetize, share, sharing, social sharing, facebook fun page, facebook page
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0.8
+Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Share4bucks is a combination of an advanced sharing toolbar and unique monetization tool.
+Share4bucks is a combination of an advanced sharing toolbar (Share via Facebook, twitter, Google Plus, Linkedin etc) and unique monetization tool.
 
 == Description ==
 Share4bucks plugin automatically adds a sharing toolbar at the end of each post you have published.
@@ -26,11 +26,11 @@ Manage your toolbar sharing options (Facebook, Twitter, Google Plus, Linkedin, T
 
 == Installation ==
 
-1. Install the Share4bucks - Sharing and monetization tool (Facebook, Twitter, Google+ etc.) plugin either via the WordPress plugin directory, or by uploading the files to your web server (in the /wp-content/plugins/ directory).
+1. Install the Share4bucks - Sharing and monetization tool (Facebook, Twitter, Google Plus, Linkedin etc.) plugin either via the WordPress plugin directory, or by uploading the files to your web server (in the /wp-content/plugins/ directory).
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
-3. Navigate to the 'Share4bucks - Sharing and monetization tool (facebook, twitter, google+ etc.)' settings page.
+3. Navigate to the 'Share4bucks - Sharing and monetization tool (facebook, twitter, Google Plus, Linkedin etc.)' settings page.
 
 4. Choose your sharing option ( Facebook, Twitter, Google Plus, Linkedin, Tumbler, Gmail).
 Add your account ID, In order to get your account ID Sign in to share4bucks and go to "Account" tab.
@@ -38,10 +38,10 @@ Add your account ID, In order to get your account ID Sign in to share4bucks and 
 == Frequently Asked Questions ==
 
 = Where my users will be able to share my content ? =
-At the following social networks: Facebook, Twitter, Google Plus, Linkedin, Tumbler or by Gmail. 
+At the following: share via Facebook, share via Twitter, share via Google Plus, share via Linkedin, share via Tumbler or share by Gmail. 
 
 = Is the shared links will appear at facebook feed normally? = 
-Yes, All the shared link will appear at user’s facebook timeline normally and his friends will be able to share it on their facebook timeline too.
+Yes, All the shared link will appear at user's facebook timeline normally and his friends will be able to share it on their facebook timeline too.
 
 = How I will receive my money? =
 Via paypal.
@@ -63,10 +63,10 @@ Yes, at the share4bucks settings page you can choose two differents icon layouts
 At share4bucks settings page you have checkboxes next to Facebook, Twitter, Google Plus, Linkedin, Tumblr and Gmail.
 
 = Is it possible to publish my posts automatically at my facebook page? =
-Currently you can’t share your posts at your facebook page automatically. You can manually publish your links at your facebook page by clicking on the facebook icon at the sharing toolbar. We currently working in order to enable you automatically publish your content at your facebook fan page and it will be available in next version of share4bucks plugin.
+Currently you can't share your posts at your facebook page automatically. You can manually publish your links at your facebook page by clicking on the facebook icon at the sharing toolbar. We currently working in order to enable you automatically publish your content at your facebook fan page and it will be available in next version of share4bucks plugin.
 
 = Is it possible to tweet my posts automatically at my twitter account? =
-Currently you can’t tweet your posts at your twitter account automatically. You can manually tweet your links at your twitter account by clicking on the twitter icon at the sharing toolbar. We currently working in order to enable you automatically tweet your content at your twitter profile and it will be available in next version of share4bucks plugin.
+Currently you can't tweet your posts at your twitter account automatically. You can manually tweet your links at your twitter account by clicking on the twitter icon at the sharing toolbar. We currently working in order to enable you automatically tweet your content at your twitter profile and it will be available in next version of share4bucks plugin.
 
 
 == Screenshots ==
@@ -78,7 +78,7 @@ Currently you can’t tweet your posts at your twitter account automatically. You 
 
 == Other Notes ==
 
-Don’t have a fun facebook? 
+Don't have a fun facebook? 
 Create a Facebook Page to build a closer relationship with your audience https://www.facebook.com/pages/create/ý
 
 What is Facebook fan page?
@@ -101,7 +101,7 @@ be started by anyone and the content can be limited or made public. There also a
 
 restrictions on the people who join it. A Facebook fan page, on the other hand, can only 
 
-be started by authorized personnel of the celeb or the business. There usually isn’t a 
+be started by authorized personnel of the celeb or the business. There usually isn't a 
 
 limit on the number of people who can like the fan page. However, the privacy can be 
 
@@ -125,7 +125,7 @@ News feed is a great way to popularize your Facebook page. When a user logs in, 
 
 updates from friends, apps and pages appear on their news feed. If you, as the page 
 
-admin, regularly post on the page’s wall, the story will show in the news feed of all the 
+admin, regularly post on the page's wall, the story will show in the news feed of all the 
 
 people who have liked the page. And if, in turn, they like the story, it will appear in the 
 
@@ -133,7 +133,7 @@ ticker of their friends. This way more and more people can be directed to the Fa
 
 fan page and help in the increase of its popularity. 
 
-Even though there isn’t a limit on the number of people who can like a Facebook fan 
+Even though there isn't a limit on the number of people who can like a Facebook fan 
 
 page, you can control and restrict the fans (the people liking a fan are usually known as 
 
@@ -202,22 +202,31 @@ Read more about facebook at http://en.wikipedia.org/wiki/Facebook
 == Changelog ==
 
 = 1.0 =
-* Share4bucks's first version, enjoy :)
+* Share 4 bucks's first version, enjoy :)
 
 = 1.0.2 =
-* Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) - Login Bug fixes
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Login Bug fixes
 
 = 1.0.3 =
-* Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) - Bug fixes
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
 
 = 1.0.4 =
-* Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) - Bug fixes
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
 
 = 1.0.5 =
-* Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) - Bug fixes
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
 
 = 1.0.6 =
-* Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.) - Bug fixes
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
+
+= 1.0.7 =
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
+
+= 1.0.8 =
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
+
+= 1.0.9 =
+* Share 4 bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.) - Bug fixes
 
 == Upgrade Notice ==
 
