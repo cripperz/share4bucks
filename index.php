@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Share4bucks - Sharing & monetization tool (facebook, twitter, google+ etc.)
+Plugin Name: Share4bucks - Sharing & monetization tool (facebook, twitter, Google Plus, Linkedin etc.)
 Plugin URI: http://www.Share4bucks.com
 Description: Share4bucks
 Version: 1.0.9
